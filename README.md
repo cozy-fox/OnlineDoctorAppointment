@@ -33,10 +33,6 @@ Note: These are general instructions for setting up an Express API, and the spec
 - CRUD operations and additional features.
 - Responsive design with a dynamic header and preloader.
 
-```
-**demo** : https://dental-doctor-ujjal.netlify.app/
-**My Websit**e : https://ujjalzaman-b6c8a.web.app/
-```
 
 
 #### What Technology are Using In This Projects

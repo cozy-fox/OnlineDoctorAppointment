@@ -11,7 +11,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "ujjal",
+  "author": "peter paker",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
